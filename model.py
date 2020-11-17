@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-dataset = pd.read_csv('C:/Users/KIIT/Desktop/git-demo/LinearRegressionfromscrath/dataset.csv')
+dataset = pd.read_csv('dataset.csv')
 print(dataset.shape)
 dataset.head()
 
